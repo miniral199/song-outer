@@ -1,0 +1,12 @@
+{
+  "speed": {
+    "start": 0.25,
+    "min": 0.08,
+    "decrement": 0.03
+  },
+  "filenames": {
+    "filename_from": "text_song.txt",
+    "filename_to": "text_song.json"
+  }
+
+}
